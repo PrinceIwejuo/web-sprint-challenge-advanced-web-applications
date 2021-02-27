@@ -104,6 +104,10 @@ These goals may or may not be things you have learned in this module but they bu
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. Add your answers to the questions within `interview_answers.md` file. These will not be counted as a part of your sprint score but will be helpful for preparing you for your endorsement interview, and enhancing overall understanding.
 
 1. Explain what a token is used for.
+- Tokens are strings with cryptic text and are stored within the client-side through a storage unit like localStorage for that session, these tokens are issued by the server.
 2. What steps can you take in your web apps to keep your data secure?
+- One way to secure data is by creating a PrivateRoute because the user would have to be authenticated with a token and have the right credentials when logging in.
 3. Describe how web servers work.
+- it stores the code for a website or program, it connects to the internet and could store code many websites across the world.
 4. Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+- PUT,POST,GET,DELETE
